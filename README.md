@@ -59,3 +59,5 @@ int main() {
       cout << "Decrypted message: " << msg;
    }
 }
+![Screenshot (138)](https://user-images.githubusercontent.com/90500831/137872687-a5a82c29-5d69-48d5-864e-ced0f5a0b9c7.png)
+![Screenshot (139)](https://user-images.githubusercontent.com/90500831/137872707-7a106522-3df1-480d-a4eb-c45292028228.png)
